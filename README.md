@@ -19,8 +19,8 @@ Upload a PDF → Ask a question → Get smart answers based on its content.
 
 ### 📦 Installation
 ```
-git clone https://github.com/yourusername/pdf-summary-chatbot.git
-cd pdf-summary-chatbot
+git clone https://github.com/ryu878/LLM-PDF-Summary-Chatbot.git
+cd LLM-PDF-Summary-Chatbot
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -42,7 +42,7 @@ python app.py
 
 ### 📁 Project Structure
 ```
-📦 pdf-summary-chatbot/
+📦 LLM-PDF-Summary-Chatbot/
 ├── app.py               # Gradio UI
 ├── llm_chat.py          # LLM query logic (Ollama)
 ├── pdf_parser.py        # PDF text extractor
