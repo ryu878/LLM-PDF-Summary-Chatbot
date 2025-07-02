@@ -54,13 +54,17 @@ python app.py
 MIT — free to use, modify, and share.
 
 ### ✅ TODOs
-- Add summarization button
+- Add summarization button (one-click)
 
 - Multiple PDF support
 
 - Chunked vector search (FAISS)
 
 - Save Q&A session to file
+
+- Vector-based semantic search (e.g., ChromaDB/FAISS)
+
+
 
 ## Contacts
 To contact me please pm:
